@@ -1,2 +1,1 @@
-# TRAINRESERVATION
-The main objective of this Project on Railway Reservation System is to manage the details of Train, Ticket, Booking, Customer, Payment. It manages all the information about Train, Seat, Payment, Train.The purpose of the project is to build an application program to reduce the manual work for managing the Train, Ticket, Seat, Booking. It tracks all the details about the Booking, Customer, Payment.
+# TRAIN RESERVATION SYSTEM
